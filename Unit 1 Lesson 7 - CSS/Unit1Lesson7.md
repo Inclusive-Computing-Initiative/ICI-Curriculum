@@ -47,5 +47,14 @@ For CSS to work we have to add the tag of the element we're trying to improve, f
 
 Also in the end of every style we add a semicolon ( ; ) to tell the computer that we're done with that style and were moving on to the next one. 
 
+We change the syntax when we use classes, which you'll learn next lesson, by adding a . and then the class name.
+
+For example we can do:
+
+    .home {
+        background: "red"
+    }
+This adds red to all the elements with the class home, but as I said Class is something we'll learn next time so don't worry about it too much.
+
 ---
 Congrats! Now you know the basics of CSS and can make HTML pages look way cooler. Now you should try to make a CSS page and give it a background color and make the text a different color. Good Luck!
