@@ -1,4 +1,4 @@
-# Lesson: Introduction to CSS Grid for SPED Kids
+# Lesson: Introduction to CSS Grid 
 
 ## Objective
 By the end of this lesson, you will understand the basic concept of CSS Grid and how it helps organize elements on a webpage.
