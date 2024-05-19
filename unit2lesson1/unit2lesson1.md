@@ -1,4 +1,4 @@
-# Unit 2 Lesson 1 Introduction
+# Unit 2 Lesson 1: Introduction
 
 ## Scratch
 
@@ -6,7 +6,7 @@ In the last unit, we learned about web development and used HTML and CSS to buil
 
 Now we know that those long lines of confusing code can look intimidating at first, but don't worry! We will start off with something a little easier, and eventually, you will be able to create your very own programs!
 
-Let's start off with understanding what Scratch is. Scratch is a coding community by MIT that builds the foundation of coding for aspiring beginners. In another words, Scratch is a great place to start your coding journey. In order to start though, we first need to create an account.
+Let's start off with understanding what Scratch is. Scratch is a coding community by MIT that builds the foundation of coding for aspiring beginners. In other words, Scratch is a great place to start your coding journey. In order to start though, we first need to create an account.
 
 ### Registering an Account
 
@@ -22,9 +22,9 @@ Next, enter the month and year that you were born and click the next button.
 
 After clicking next, select your gender and click the next button.
 
-After that, enter an email address that you have access to. This can either be your email or a parent's email. Just in case you forget your password or any other nessicarry information, entering an accessible email will allow you to retrieve this information. After you have entered your email, click "Create Your Account".
+After that, enter an email address that you have access to. This can either be your email or a parent's email. Just in case you forget your password or any other necessary information, entering an accessible email will allow you to retrieve this information. After you have entered your email, click "Create Your Account".
 
-In a couple minutes, the you entered email should have recieved an email about activating your account. If you entered your parent's email, kindly ask them to do so.
+In a couple minutes, the you entered email should have received an email about activating your account. If you entered your parent's email, kindly ask them to do so.
 
 Congratulations!!! 🎉You have now created an account.
 
