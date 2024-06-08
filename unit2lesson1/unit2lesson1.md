@@ -2,7 +2,7 @@
 
 ## Scratch
 
-In the last unit, we learned about web development and used HTML and CSS to build your very own website. In this unit, you will create your very own program!
+In the last unit, we learned about web development and used HTML and CSS to build your very own website. In this unit, you will create your very own game!
 
 Now we know that those long lines of confusing code can look intimidating at first, but don't worry! We will start off with something a little easier, and eventually, you will be able to create your very own programs!
 

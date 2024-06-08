@@ -16,7 +16,7 @@ At the top of your screen, you can see many options. The two we will explain are
 
 First off, clicking the "File" dropdown will display multiple options. Let's quickly go over what these do.
  - **New**: quickly create a new project
- - **Save now**: save your progress into the project you are working on. **Forgetting to save will cause all of your progress to disapear, so it is important to save your progress!!!**
+ - **Save now**: save your progress into the project you are working on. **Forgetting to save will cause all of your progress to disappear, so it is important to save your progress!!!**
  - **Save as a copy**: save your progress into a separate project. This can be useful when you want to save but might also revert to the current state.
  - **Load from your computer**: load a project from your device
  - **Save to your computer**: save the project to your device
@@ -39,7 +39,7 @@ Finally, the "Sounds" tab is right next to the "Costumes" tab. This tab will all
 
 ### Middle Workspace
 
-Let's go back to the "Code" tab. In the middle of your screen, you will see a white space. What a waste of space am I right? Well not really. This is where the project comes to life. Right now, there isn't much on the screen, but let's try dragging some code blocks into the space. First, click "Events" on the "Code" tab and drag the "when (green flag) clicked" block into the workspace. Next, click "Motion" and connect any of those blocks onto the end of the yellow block that we put intot he workspace earlier. Congratulations! You have successfully created your first Scratch program (Be sure to save by clicking "File" -> "Save now" to save the program).
+Let's go back to the "Code" tab. In the middle of your screen, you will see a white space. What a waste of space am I right? Well not really. This is where the project comes to life. Right now, there isn't much on the screen, but let's try dragging some code blocks into the space. First, click "Events" on the "Code" tab and drag the "when (green flag) clicked" block into the workspace. Next, click "Motion" and connect any of those blocks onto the end of the yellow block that we put into the workspace earlier. Congratulations! You have successfully created your first Scratch program (Be sure to save by clicking "File" -> "Save now" to save the program).
 
 ### Right Project Execution
 
